@@ -1,136 +1,223 @@
 <div align="center">
 
-# Roman Ivanov
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,35:111827,70:2563eb,100:38bdf8&text=Roman%20Ivanov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20•%20Next.js%20•%20Laravel%20•%20Microservices&descAlignY=58"/>
 
-### Fullstack Developer — Next.js · Laravel · Microservices
+<br/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+modern+scalable+applications;Next.js+%E2%80%A2+Laravel+%E2%80%A2+NestJS+%E2%80%A2+Microservices;Clean+Architecture+%E2%80%A2+DX+%E2%80%A2+Performance;Open+to+new+opportunities" />
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)](mailto:roman.ivanov@email.com)
+<br/>
+<br/>
 
-<br>
+<a href="mailto:roman.ivanov@email.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📍 Ukraine · 📧 roman.ivanov@email.com · 💼 Available immediately
+<a href="https://github.com/romanivanov">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://linkedin.com/in/romanivanov">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roman.ivanov@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romanivanov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romanivanov)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/romanivanov)
+<a href="https://t.me/romanivanov">
+  <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=romanivanov&label=Profile%20Views&color=2563eb&style=flat" />
 
 </div>
 
 ---
 
-## ️ Tech Stack
+# 💫 About Me
+
+```bash
+> whoami
+
+Roman Ivanov — Fullstack Developer from Ukraine 🇺🇦
+
+> specialization
+
+Frontend:
+Next.js / React / TypeScript / Vue
+
+Backend:
+Laravel / NestJS / Symfony / Microservices
+
+> currently_building
+
+Scalable web platforms
+High-performance APIs
+Modern DX-focused architectures
+
+> interests
+
+Clean Architecture
+Performance Optimization
+DevOps
+Distributed Systems
+```
+
+---
+
+# ⚡ Tech Stack
 
 <div align="center">
 
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Database & APIs**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,nodejs,nestjs,php,laravel,symfony,python,postgres,redis,docker,linux,git,githubactions&perline=9" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Experience
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=romanivanov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanivanov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+<table>
+<tr>
+<td width="50%">
 
-<br>
+### ⚡ Next.js Developer  
+### Nimbus Systems  
+`2024 — 2025`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=romanivanov&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanivanov&theme=tokyonight" alt="Profile Summary" width="49%"/>
+- Built scalable SSR/SSG applications
+- Improved frontend performance
+- Developed reusable UI architecture
+- Worked with TypeScript & API integrations
 
-<br>
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=romanivanov&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
+<td width="50%">
+
+### 🔥 Laravel Fullstack Developer  
+### CipherTech  
+`2024 — 2025`
+
+- REST APIs & authentication systems
+- Vue.js admin dashboards
+- Queue systems & caching
+- PostgreSQL & Redis optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 Symfony Fullstack Developer  
+### Vertex Labs  
+`2023 — 2024`
+
+- Microservice architecture
+- High-load backend systems
+- Elasticsearch integrations
+- Event-driven communication
+
+</td>
+
+<td width="50%">
+
+### 🎨 Frontend Developer  
+### Freelance  
+`2022 — 2023`
+
+- Responsive UI/UX
+- React applications
+- Landing pages & dashboards
+- Performance optimization
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💼 Experience
+# 🧠 Architecture & Development
 
 <div align="center">
 
-| Period | Role | Company | Stack |
-|--------|------|---------|-------|
-| `2024 — 2025` | **Next.js Developer** | Nimbus Systems | React, Next.js, TypeScript, SSR/SSG |
-| `2024 — 2025` | **Laravel Fullstack Dev** | CipherTech | Laravel, Vue.js, REST APIs, Auth |
-| `2023 — 2024` | **Symfony Fullstack Dev** | Vertex Labs | Symfony, PostgreSQL, Redis, Microservices |
-| `2022 — 2023` | **Frontend Developer** | Freelance | HTML, CSS, JavaScript, React.js |
+```mermaid
+flowchart LR
+
+A[Frontend] --> B[API Gateway]
+B --> C[Microservices]
+C --> D[(PostgreSQL)]
+C --> E[(Redis)]
+C --> F[Queue Workers]
+```
 
 </div>
 
 ---
 
-## 🎓 Education
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **Computer Science** | Donbas State Engineering Academy | `2018 — 2023` |
-| **Applied Mathematics** | Horlivka Technical College | `2011 — 2014` |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romanivanov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanivanov&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<br/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romanivanov&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 ---
 
-## 🌐 Languages
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/romanivanov/romanivanov/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🌍 Languages
 
 <div align="center">
 
 | Language | Level |
-|----------|-------|
-| 🇺 Ukrainian | Native |
-| 🇬 English | Fluent |
+|---|---|
+| 🇺🇦 Ukrainian | Native |
+| 🇬🇧 English | Fluent |
 | 🇷🇺 Russian | Fluent |
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roman.ivanov@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romanivanov)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romanivanov)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/romanivanov)
+<a href="mailto:roman.ivanov@email.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/romanivanov">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/romanivanov">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/romanivanov">
+  <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
 </div>
 
@@ -138,10 +225,10 @@
 
 <div align="center">
 
-<sub>Built with ❤️ using Next.js, TypeScript & TailwindCSS</sub>
+## 💎 “Code. Architecture. Performance.”
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=romanivanov&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,35:111827,70:2563eb,100:38bdf8"/>
 
 </div>
