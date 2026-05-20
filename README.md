@@ -1,4 +1,3 @@
-````md id="digital-cyberpunk-readme"
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0f172a,50:111827,75:1d4ed8,100:38bdf8&text=ROMAN%20IVANOV&fontSize=58&fontColor=00e5ff&animation=fadeIn&fontAlignY=40&desc=FULLSTACK%20ENGINEER%20%E2%80%A2%20SYSTEM%20ARCHITECT%20%E2%80%A2%20MICROSERVICES&descAlignY=60"/>
@@ -237,4 +236,3 @@ FREELANCE
 ### `> SYSTEM STATUS: ONLINE`
 
 </div>
-````
