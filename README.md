@@ -1,109 +1,88 @@
 <div align="center">
 
-# Roman Ivanov
+# 👋 Roman Ivanov
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Next.js+%C2%B7+Laravel+%C2%B7+TypeScript;Building+scalable+web+applications" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Next.js+%E2%80%A2+NestJS+%E2%80%A2+Laravel;TypeScript+%7C+Clean+Architecture+%7C+Scalable+Systems" />
 
-<br>
+<br/>
 
- Ukraine · 📧 roman.ivanov@email.com · [Open to work](mailto:roman.ivanov@email.com)
-
-</div>
-
----
-
-## Stack
-
-<marquee behavior="scroll" direction="left" scrollamount="4">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" title="Next.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" title="Vue.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" title="Laravel"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="50" height="50" title="Symfony"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50" title="NestJS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" title="Redis"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" title="GraphQL"/>
-  &nbsp;&nbsp;&nbsp;
-</marquee>
-
----
-
-## Experience
-
-<div align="center">
-
-```
-2022 ──────────────────────────────────────────────── 2025
-  │
-  ├── 🎨 Frontend Developer @ Freelance
-  │    HTML · CSS · JavaScript · React.js · UI/UX
-  │
-  ├── 🏛️ Symfony Fullstack Developer @ Vertex Labs
-  │    Symfony · PostgreSQL · Redis · Elasticsearch · Microservices
-  │
-  ├── 🔴 Laravel Fullstack Developer @ CipherTech
-  │    Laravel · Vue.js · REST APIs · Auth · Payments
-  │
-  └── ▲ Next.js Developer @ Nimbus Systems
-       React · Next.js · TypeScript · SSR/SSG · Core Web Vitals
-```
+🇺🇦 Ukraine • 📧 [roman.ivanov@email.com](mailto:roman.ivanov@email.com) • 🚀 Open to work
 
 </div>
 
 ---
 
-## Education
+## ⚡ About Me
+
+- 🧠 Fullstack developer focused on scalable architectures
+- ⚙️ Prefer **TypeScript + Node.js ecosystem**
+- 🏗️ Love clean architecture, modular systems, FSD
+- 🚀 Building performant web apps & APIs
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
+
+### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+---
+
+## 💼 Experience
+
+**🧩 Next.js Developer** — Nimbus Systems *(2024–2025)*  
+• Scalable frontend architecture  
+• Performance optimization (SSR / ISR)
+
+**⚙️ Laravel Fullstack Developer** — CipherTech *(2024–2025)*  
+• REST APIs, admin panels, integrations  
+
+**🧱 Symfony Developer** — Vertex Labs *(2023–2024)*  
+• Enterprise backend systems  
+
+**🧑‍💻 Freelance Developer** *(2022–2023)*  
+• Fullstack projects from scratch
+
+---
+
+## 🎓 Education
+
+🎓 Computer Science — Donbas State Engineering Academy (2018–2023)  
+📐 Applied Mathematics — Horlivka Technical College (2011–2014)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎓 Computer Science
-**Donbas State Engineering Academy**
-
-`2018 — 2023`
-
-<img src="https://img.shields.io/badge/Bachelor's_Degree-58A6FF?style=flat-square" alt="Bachelor"/>
-
-</td>
-<td align="center" width="50%">
-
-### 📐 Applied Mathematics
-**Horlivka Technical College**
-
-`2011 — 2014`
-
-<img src="https://img.shields.io/badge/Associate_Degree-58A6FF?style=flat-square" alt="Associate"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=romanivanov&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanivanov&layout=compact&theme=tokyonight" height="160"/>
 
 </div>
 
 ---
 
+## 📫 Contact
+
 <div align="center">
 
-[Email](mailto:roman.ivanov@email.com) · [GitHub](https://github.com/romanivanov) · [LinkedIn](https://linkedin.com/in/romanivanov) · [Telegram](https://t.me/romanivanov)
+[![Email](https://img.shields.io/badge/Email-contact-blue?style=for-the-badge)](mailto:roman.ivanov@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/romanivanov)
+[![Telegram](https://img.shields.io/badge/Telegram-chat-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/romanivanov)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-000?style=for-the-badge&logo=github)](https://github.com/romanivanov)
 
 </div>
