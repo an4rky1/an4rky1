@@ -6,7 +6,9 @@
 
 <br>
 
-🇺🇦 Ukraine · 📧 [roman.ivanov@email.com](mailto:roman.ivanov@email.com) · **Open to work**
+<img src="https://img.shields.io/badge/🇺🇦_Ukraine-FFD700?style=for-the-badge&labelColor=0057B7" />
+<img src="https://img.shields.io/badge/📧_roman.ivanov@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/🟢_Open_to_work-28a745?style=for-the-badge" />
 
 </div>
 
@@ -15,28 +17,94 @@
 ## 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,laravel,symfony,nestjs,php,py,postgres,redis,docker,graphql,git,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,laravel,symfony,nestjs,php,py,postgres,redis,docker,graphql,git,linux&theme=dark&perline=7" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| **Next.js Developer** | Nimbus Systems | `2024 – 2025` |
-| **Laravel Fullstack Developer** | CipherTech | `2024 – 2025` |
-| **Symfony Fullstack Developer** | Vertex Labs | `2023 – 2024` |
-| **Frontend Developer** | Freelance | `2022 – 2023` |
+<!-- Nimbus Systems -->
+<div>
+  <img align="left" src="https://img.shields.io/badge/2024_—_2025-58A6FF?style=flat-square&color=1f6feb" />
+  <b>Next.js Developer</b> · <a href="#">Nimbus Systems</a>
+  <br>
+  <sub>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" height="18"/>
+  </sub>
+</div>
+
+<br clear="left">
+
+<!-- CipherTech -->
+<div>
+  <img align="left" src="https://img.shields.io/badge/2024_—_2025-58A6FF?style=flat-square&color=1f6feb" />
+  <b>Laravel Fullstack Developer</b> · <a href="#">CipherTech</a>
+  <br>
+  <sub>
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" height="18"/>
+  </sub>
+</div>
+
+<br clear="left">
+
+<!-- Vertex Labs -->
+<div>
+  <img align="left" src="https://img.shields.io/badge/2023_—_2024-58A6FF?style=flat-square&color=1f6feb" />
+  <b>Symfony Fullstack Developer</b> · <a href="#">Vertex Labs</a>
+  <br>
+  <sub>
+    <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square" height="18"/>
+  </sub>
+</div>
+
+<br clear="left">
+
+<!-- Freelance -->
+<div>
+  <img align="left" src="https://img.shields.io/badge/2022_—_2023-58A6FF?style=flat-square&color=1f6feb" />
+  <b>Frontend Developer</b> · <a href="#">Freelance</a>
+  <br>
+  <sub>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" height="18"/>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" height="18"/>
+  </sub>
+</div>
+
+<br clear="left">
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **Computer Science** | Donbas State Engineering Academy | `2018 – 2023` |
-| **Applied Mathematics** | Horlivka Technical College | `2011 – 2014` |
+<div>
+  <img align="left" src="https://img.shields.io/badge/2018_—_2023-238636?style=flat-square&color=238636" />
+  <b>Computer Science</b>
+  <br>
+  <sub><i>Donbas State Engineering Academy</i></sub>
+</div>
+
+<br clear="left">
+
+<div>
+  <img align="left" src="https://img.shields.io/badge/2011_—_2014-238636?style=flat-square&color=238636" />
+  <b>Applied Mathematics</b>
+  <br>
+  <sub><i>Horlivka Technical College</i></sub>
+</div>
+
+<br clear="left">
 
 ---
 
