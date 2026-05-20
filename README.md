@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Roman Ivanov 👋</h1>
+<h1 align="center">Roman Ivanov</h1>
 
 <p align="center">
-  <strong>Fullstack Developer</strong> — Building scalable web apps with Next.js, Laravel & Microservices
+  <strong>Fullstack Developer</strong> — Next.js · Laravel · Microservices
 </p>
 
 <p align="center">
@@ -12,138 +12,78 @@
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /><br/>
-  <sub>TypeScript</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" /><br/>
-  <sub>Next.js</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><br/>
-  <sub>React</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" /><br/>
-  <sub>Laravel</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40" /><br/>
-  <sub>Symfony</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /><br/>
-  <sub>Vue.js</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" /><br/>
-  <sub>NestJS</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br/>
-  <sub>PostgreSQL</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" /><br/>
-  <sub>Redis</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /><br/>
-  <sub>Docker</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /><br/>
-  <sub>Tailwind</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" /><br/>
-  <sub>GraphQL</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br/>
-  <sub>Python</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /><br/>
-  <sub>PHP</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /><br/>
-  <sub>Linux</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><br/>
-  <sub>Git</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romanivanov&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanivanov&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romanivanov&theme=transparent&hide_border=true&border=0" alt="Streak Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=romanivanov&theme=transparent&hide_border=true" alt="Profile Summary" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/romanivanov/github-profile-summary-cards/blob/main/profile-summary-card-output/default/0-repos-per-language.png?raw=true" alt="Repos per Language" width="49%" />
+  <img src="https://github.com/romanivanov/github-profile-summary-cards/blob/main/profile-summary-card-output/default/1-repos-per-language.png?raw=true" alt="Most Used Languages" width="49%" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Period | Stack |
-|------|---------|--------|-------|
-| **Next.js Developer** | Nimbus Systems | 2024 – 2025 | React, Next.js, TypeScript, SSR/SSG |
-| **Laravel Fullstack Dev** | CipherTech | 2024 – 2025 | Laravel, Vue.js, REST APIs, Auth |
-| **Symfony Fullstack Dev** | Vertex Labs | 2023 – 2024 | Symfony, PostgreSQL, Redis, Microservices |
-| **Frontend Developer** | Freelance | 2022 – 2023 | HTML, CSS, JavaScript, React.js |
-
----
-
-## 🚀 Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ✅ Completed
-
-**ASCII Terminal**  
-Matrix-style ASCII art generator with AI & Supabase  
-`Next.js 16` `TypeScript` `Supabase` `Tailwind CSS 4`  
-[🔗 Code](https://github.com/anarky/ascii)
-
-**News Platform**  
-Real-time news aggregation with React Query & Framer Motion  
-`Next.js 16` `TypeScript` `Supabase` `Framer Motion`  
-[🔗 Code](https://github.com/anarky/news)
-
-**Pixel Art Converter**  
-Image processing pipeline with Sharp & Drizzle ORM  
-`Next.js 14` `TypeScript` `PostgreSQL` `Drizzle ORM` `Sharp`  
-[ Code](https://github.com/anarky/pixel-art-converter)
-
-**Blog Platform**  
-FSD architecture blog with full-text search & JWT auth  
-`Next.js 14` `TypeScript` `PostgreSQL` `Drizzle ORM` `Zod`  
-[🔗 Code](https://github.com/anarky/blog-platform)
-
+<td>
+  <strong>Next.js Developer</strong><br/>
+  <sub>Nimbus Systems · 2024 – 2025</sub><br/>
+  <small>React, Next.js, TypeScript, SSR/SSG, Core Web Vitals</small>
 </td>
-<td width="50%" valign="top">
-
-###  In Progress
-
-**SaaS Platform**  
-Microservices with GraphQL Federation, gRPC & CQRS  
-`NestJS 11` `GraphQL` `gRPC` `CQRS` `Apollo Gateway`
-
-**Core Framework**  
-Nx monorepo infrastructure drivers for NestJS microservices  
-`NestJS 11` `Nx` `TypeScript` `Express 5` `Zod`
-
+<td>
+  <strong>Laravel Fullstack Developer</strong><br/>
+  <sub>CipherTech · 2024 – 2025</sub><br/>
+  <small>Laravel, Vue.js, REST APIs, Auth, Payments</small>
+</td>
+</tr>
+<tr>
+<td>
+  <strong>Symfony Fullstack Developer</strong><br/>
+  <sub>Vertex Labs · 2023 – 2024</sub><br/>
+  <small>Symfony, PostgreSQL, Redis, Elasticsearch, Microservices</small>
+</td>
+<td>
+  <strong>Frontend Developer</strong><br/>
+  <sub>Freelance · 2022 – 2023</sub><br/>
+  <small>HTML, CSS, JavaScript, React.js, UI/UX</small>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎓 Education
+##  Education
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
@@ -152,35 +92,23 @@ Nx monorepo infrastructure drivers for NestJS microservices
 
 ---
 
-##  Languages
+## 🌐 Languages
 
 | Language | Level |
 |----------|-------|
-| 🇺🇦 Ukrainian | Native |
-| 🇬 English | Fluent |
-| 🇷🇺 Russian | Fluent |
+| 🇦 Ukrainian | Native |
+|  English | Fluent |
+| 🇺 Russian | Fluent |
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romanivanov&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanivanov&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:roman.ivanov@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/romanivanov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/romanivanov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://t.me/romanivanov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:roman.ivanov@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/romanivanov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/romanivanov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/romanivanov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
