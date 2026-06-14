@@ -2,7 +2,7 @@
 
 # 👋 Roman Ivanov
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Next.js+%E2%80%A2+NestJS+%E2%80%A2+Laravel;TypeScript+%7C+Clean+Architecture+%7C+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Next.js+%E2%80%A2+NestJS+%E2%80%A2+" />
 
 <br/>
 
@@ -82,17 +82,6 @@
 
 🎓 Computer Science — Donbas State Engineering Academy (2018–2023)  
 📐 Applied Mathematics — Horlivka Technical College (2011–2014)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=an4rky1&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an4rky1&layout=compact&theme=tokyonight" height="160"/>
-
-</div>
 
 ---
 
